@@ -15,7 +15,7 @@
 - Needs to be documented if employee did not log overtime
 
 ## UI
-Bootstrap -> Formatting
+- Bootstrap -> Formatting
 
 This project is explained in the Professional Ruby on Rails Coding Course
 For more tutorial please visit devCamp
