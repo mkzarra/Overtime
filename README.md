@@ -17,5 +17,5 @@ x Usr -> Devise
 ## UI
 - Bootstrap -> Formatting
 
-This project is explained in the Professional Ruby on Rails Coding Course
-For more tutorial please visit devCamp
+## Refactor TODOS:
+- Refactor user association integration test in spec/features/post_spec
